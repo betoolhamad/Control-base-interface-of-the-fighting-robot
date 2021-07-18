@@ -1,5 +1,5 @@
 # Control base interface of the fighting robot
-Design the interface to the control base of the fighting robot using web languages.
+Design the interface to the control base of the fighting robot using html, css and php.
 
 I Built a User interface that contains the buttons of the control base to control the robot base of the fighting robot, which has five buttons of directions, each button expresses a specific direction, left, right, forward, backward, and stop.
 
