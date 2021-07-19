@@ -25,3 +25,12 @@ Each button will store the values of his direction in the database which I creat
 
 
 https://user-images.githubusercontent.com/43522153/126083871-91b05d15-cbc1-42fa-9dfb-51aec5212533.mov
+
+
+**Here after i add buttons to moving in pages, the control panel page, and the control base page to let users use both of them.**
+
+
+
+https://user-images.githubusercontent.com/43522153/126087889-038e0721-296a-460e-a1fd-ceb1a012ef09.mov
+
+
